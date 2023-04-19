@@ -92,7 +92,7 @@ Performance changes of the main metrics during the training process. LEVIR-CD+ r
 			<center>
 				<img src="paperImgs/S2Looking_results.png" style="zoom:6%">
 				<br/>
-				<font color="">S2Looking resultsg</font>
+				<font color="">S2Looking results</font>
 			</center>
 		</td>
 	</tr>
