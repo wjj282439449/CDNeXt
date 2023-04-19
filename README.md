@@ -9,7 +9,7 @@ A PyTorch 1.8 implementation of CDNeXt with the TIAM and different backbone
 * The Temporospatial Interactive Attention Module (TIAM):  
 
 <!-- ![CDNeXt-framework](paperImgs/TIAM.png) {:width:"100px"} -->
-<img src="paperImgs/TIAM.png" style="zoom:30%">
+<img src="paperImgs/TIAM.png" style="zoom:20%">
 ---
 
 ### Requirements
